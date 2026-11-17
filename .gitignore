@@ -1,0 +1,25 @@
+# Build
+bin/
+obj/
+
+# Visual Studio 
+.vs/
+*.user
+*.suo
+
+#Rider
+.idea/
+
+#NuGet
+*.nupkg
+
+# Secrets
+appsettings.Development.json
+secrets.json
+
+# Logs
+*.log 
+
+# OS
+.DS_Store
+Thumbs.db
